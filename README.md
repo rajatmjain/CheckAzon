@@ -1,4 +1,5 @@
-#Scraper
+CheckAzon
+---------
 
 This is a Python program that allows you to scrape the price of a product from an Amazon product page and receive an email notification when the price drops below a certain value.
 
@@ -14,7 +15,8 @@ You can install these libraries by running:
 ```
 pip install requests bs4 smtplib
 ```
-##Usage
+Usage
+------
 
 1. Run the program by running the following command in your terminal:
 ```
